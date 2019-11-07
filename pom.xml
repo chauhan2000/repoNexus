@@ -22,12 +22,12 @@
   <repository>
     <id>releases</id>
     <name>releases</name>
-    <url>http://localhost:8081/repository/releases/</url>
+    <url>http://localhost:8081/repository/release1/</url>
   </repository>
   <snapshotRepository>
     <id>snapshots</id>
     <name>snapshots</name>
-    <url>http://localhost:8081/repository/snapshots/</url>
+    <url>http://localhost:8081/repository/snapshot/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
